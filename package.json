@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": "21.0.0"
+  },
   "name": "airbnb-clone",
   "version": "1.0.0",
   "main": "index.js",
